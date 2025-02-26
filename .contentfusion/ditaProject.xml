@@ -7,4 +7,12 @@
         </profile>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-jui-1740558337446" name="jui">
+        <context idref="nEhZGhhJTBTzNII"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="templates/mkjlkj" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
