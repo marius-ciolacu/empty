@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="fNQzlNdiABxQLGC" name="kjlij">
+        <input href="../first_file"/>
+        <profile>
+            <ditaval href="../first_file"/>
+        </profile>
+    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
 </project>
